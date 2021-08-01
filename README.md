@@ -1,5 +1,6 @@
 # phase_screen_model
 
+
 Phase Screen Model allows to calculates scintillation indices, for electron density data from the ICI-4 rocket.
 This was written for a Master's thesis, and all the codes found here are the main codes used to: Test the developped method, filter the measurements from the rocket, and, calculate the amplitude and phase scintillation indices. 
 Also, to allow comparing the indices with ground based receivers, codes such as: skyview_x.py and receivers_data.py were used to: 
