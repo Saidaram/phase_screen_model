@@ -11,7 +11,7 @@ class var:
 	wavelength = c / freq  # [m]
 	z = 350000 # Altitude 
 	fresnel_length = np.sqrt(wavelength*z) # [m]
-	wavenumber = 2 * np.pi / wavelength # [1/m] 
+	wavenumber = 2 * np.pi / wavelength # [1/m]
 	width_ps = 20000 # Phase screen width [m] #Changeable parameter
 
 def data():
